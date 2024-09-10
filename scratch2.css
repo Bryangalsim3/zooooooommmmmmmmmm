@@ -1,0 +1,16 @@
+h1 {
+    text-align: center;
+}
+
+
+
+button {
+    text-align: center;
+    background-color: greenyellow;
+    padding: 15px 30px;
+    border-radius: 10px;
+}
+button:hover {
+    color: black;
+    background-color: goldenrod;
+}
